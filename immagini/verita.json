@@ -1,0 +1,117 @@
+{
+  "menu": {
+    "n_piatti": 12,
+    "piatti": {
+      "Bruschetta al pomodoro": "4,50",
+      "Tagliere di salumi": "9,00",
+      "Spaghetti alle vongole": "13,00",
+      "Risotto ai funghi porcini": "12,50",
+      "Lasagna della casa": "10,00",
+      "Tagliata di manzo": "18,00",
+      "Baccala alla livornese": "15,50",
+      "Cacciucco": "22,00",
+      "Insalata mista": "5,00",
+      "Patate al forno": "4,00",
+      "Tiramisu": "6,00",
+      "Panna cotta": "5,50"
+    },
+    "locale": "Trattoria da Mario",
+    "prezzo_max": "22,00",
+    "piatto_caro": "Cacciucco"
+  },
+  "scontrino": {
+    "totale": "12,30",
+    "resto": "2,70",
+    "contanti": "15,00",
+    "n_caffe": 2,
+    "numero": "0147",
+    "locale": "Bar Centrale"
+  },
+  "etichetta_batteria": {
+    "volt": "36",
+    "ah": "10.4",
+    "wh": "374",
+    "carica_max": "42",
+    "config": "10S4P",
+    "modello": "SW-36104"
+  },
+  "conteggio": {
+    "cerchi_rossi": 7,
+    "quadrati_blu": 4,
+    "triangoli_verdi": 2,
+    "totale": 13
+  },
+  "display_errore": {
+    "codice": "21",
+    "componente": "speed sensor / sensore velocita",
+    "batteria": "82",
+    "velocita": "0",
+    "assistenza": "off"
+  },
+  "dove_sono_1": {
+    "citta": "Livorno",
+    "regione": "Toscana",
+    "indizi": [
+      "prefisso 0586",
+      "Porto Mediceo",
+      "Terminal Crociere",
+      "Quartiere Venezia",
+      "Via Grande",
+      "Parco Levante"
+    ],
+    "accetta": [
+      "livorno"
+    ]
+  },
+  "dove_sono_2": {
+    "zona": "Chianti, provincia di Firenze",
+    "regione": "Toscana",
+    "indizi": [
+      "prefisso 055",
+      "Figline Valdarno",
+      "Greve in Chianti",
+      "Siena 45 km",
+      "Chianti Classico"
+    ],
+    "accetta": [
+      "chianti",
+      "firenze",
+      "toscana",
+      "valdarno"
+    ]
+  },
+  "quando": {
+    "stagione": "estate",
+    "mese_probabile": "agosto (o fine luglio)",
+    "ora": "14:20 primo pomeriggio",
+    "temperatura": "34",
+    "indizi": [
+      "saldi estivi",
+      "chiuso per ferie 12-26",
+      "34 gradi",
+      "gelateria con coda",
+      "spiaggia"
+    ],
+    "accetta": [
+      "estate",
+      "agosto",
+      "luglio"
+    ]
+  },
+  "trova_errore": {
+    "errori": [
+      "polarita invertita: il + della batteria va al - del controller",
+      "fusibile da 3 A su un carico che assorbe 18 A (sottodimensionato)",
+      "controller da 48 V alimentato con batteria da 36 V (tensione non corrispondente)"
+    ],
+    "accetta_parole": [
+      "invertit",
+      "polarit",
+      "fusibil",
+      "3 a",
+      "sottodimension",
+      "48",
+      "36"
+    ]
+  }
+}
