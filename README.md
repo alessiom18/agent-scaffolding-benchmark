@@ -122,3 +122,9 @@ col modello per cui è stato scritto, non state misurando l'agente.
 ---
 
 *Tutto in locale, nessun dato uscito dalla macchina. [SudoWAI](https://sudowai.com) — l'AI del tuo lavoro.*
+
+
+## Progetti collegati (SudoWAI)
+- ⚡ **[Interposer](https://interposer.sudowai.com)** — espansione hardware VRAM per modelli AI grandi in locale.
+- 🧠 **[MARINA](https://github.com/alessiom18/marina)** — decomposizione atomica su lavagna condivisa.
+- 🌐 **[SudoWAI](https://sudowai.com)** — casa base ricerca e sistemi self-hosted.
